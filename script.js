@@ -8,7 +8,7 @@ const questions = {
             question: "Wofür werden Wendeschützschaltungen eigentlich eingesetzt?", 
             image: "Bilder Querbeet/bild5.jpg", 
             answers: ["Um den Motor zunächst in einer Drehrichtung in Stern- und dann andersherum im Dreieck laufen zu lassen", "Um die Drehrichtung des Motors zu ändern", "Um eine höhere Drehzahl zu erreichen"], 
-            correct: [0] 
+            correct: [1] 
         },
 
         { 
